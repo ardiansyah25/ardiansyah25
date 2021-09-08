@@ -1,11 +1,12 @@
 <h1>👋 Hi, I'm Ardiansyah</h1>
 <p> 🔭 Now I'm Working As Web Developer</p>
+<p> 🔭 Expert on PHP especially Codeigniter & Laravel</p>
 <p> 🌱 I’m currently learning Kotlin & Flutter for Android Development</p>
 
-![Ardiansyah GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiansyah25&show_icons=true&theme=radical) <br>
+<h1></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Ardiansyah GitHub stats](https://github-readme-stats.vercel.app/api?username=ardiansyah25&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiansyah25&layout=compact&theme=radical)](https://github.com/ardiansyah25/github-readme-stats)
 
 
 
