@@ -1,5 +1,5 @@
-<h1 align="center">𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 (>‿◠)✌, 𝑰❜𝒎 𝑨𝒓𝒅𝒊𝒂𝒏𝒔𝒚𝒂𝒉</h1>
-<h3 align="center">❤ 🅲🅾🅳🅴 🅰🅽🅳 ☕</h3>
+<h3>❤ 🅲🅾🅳🅴 🅰🅽🅳 ☕</h3>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardiansyah25&label=Profile%20views&color=0e75b6&style=flat" alt="ardiansyah25" /> </p>
 
