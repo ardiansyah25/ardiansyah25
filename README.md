@@ -1,9 +1,6 @@
-<h3>❤ 🅲🅾🅳🅴 🅰🅽🅳 ☕</h3>
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardiansyah25&label=Profile%20views&color=0e75b6&style=flat" alt="ardiansyah25" /> </p>
 
-<h3>About me 👦</h3>
+<h3>About me</h3>
 
 - 🔭 Now I'm Working As Web Developer
 - 🌱 I’m currently learning **Kotlin, Flutter and ASP**
