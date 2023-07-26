@@ -3,7 +3,7 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
-</picture> Hi there, Nice to see you !</h1>
+</picture>𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙨𝙚𝙚 𝙮𝙤𝙪 !</h1>
 <p align="center">
   Welcome to my page ! <br> i'm Ardian, a Programmer and Freelancer from <b>Indonesia</b> currently living in <b>Riau</b> Sumatra 
 </p>
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: aardi25@gmail.com
+  📫 How to reach me: <a href="mailto:aardi25@gmail.com">aardi25@gmail.com</a> 
 </p>
 
 <!--
