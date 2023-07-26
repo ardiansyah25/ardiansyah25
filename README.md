@@ -3,7 +3,7 @@
 <h1>Hi there, Nice To see you</h1>
 <p>Welcome to my page ! <br> i'm Ardian, a Programmer and Freelancer from <b>Indonesia</b> currently living in <b>Riau</b> Sumatra </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats-ardiansyah25.vercel.app/api?username=ardiansyah25&show_icons=true&theme=gruvbox)](https://github.com/ardiansyah25/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats-ardiansyah25.vercel.app/api?username=ardiansyah25&show_icons=true&theme=gruvbox)](https://github.com/ardiansyah25/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats-ardiansyah25.vercel.app/api/top-langs/?username=ardiansyah25&theme=gruvbox)](https://github.com/ardiansyah25/github-readme-stats)
 <!--
