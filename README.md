@@ -1,6 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardiansyah25&label=Profile%20views&color=0e75b6&style=flat" alt="ardiansyah25" /> </p>
 
-<h1>Hi there, Nice To see you</h1>
+<h1><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
+</picture> Hi there, Nice to see you !</h1>
 <p>Welcome to my page ! <br> i'm Ardian, a Programmer and Freelancer from <b>Indonesia</b> currently living in <b>Riau</b> Sumatra </p>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats-ardiansyah25.vercel.app/api?username=ardiansyah25&show_icons=true&theme=gruvbox)](https://github.com/ardiansyah25/github-readme-stats)-->
