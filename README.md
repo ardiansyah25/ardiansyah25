@@ -1,8 +1,5 @@
 
-<h1 align="center"> <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f913/512.gif" alt="🤓" width="32" height="32">
-</picture> 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙨𝙚𝙚 𝙮𝙤𝙪 !</h1>
+<h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙨𝙚𝙚 𝙮𝙤𝙪 !</h1>
 <p align="center">
   Welcome to my page ! <br> i'm Ardian, a Programmer and Freelancer from <b>Indonesia</b> currently living in <b>Riau</b> Sumatra 
 </p>
