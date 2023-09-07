@@ -2,7 +2,7 @@
 <h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙉𝙞𝙘𝙚 𝙩𝙤 𝙨𝙚𝙚 𝙮𝙤𝙪 !</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Welcome+to+my+page" alt="Typing SVG" /></a>
- <br> i'm Ardian, a Programmer and Freelancer from <b>Indonesia</b> currently living in <b>Riau</b> Sumatra 
+ <br> i'm Programmer and Freelancer from <b>Indonesia</b> currently living in <b>Riau</b> Sumatra 
 </p>
 <!--[![Anurag's GitHub stats](https://github-readme-stats-ardiansyah25.vercel.app/api?username=ardiansyah25&show_icons=true&theme=gruvbox)](https://github.com/ardiansyah25/github-readme-stats)
 [![Top Langs](https://github-readme-stats-ardiansyah25.vercel.app/api/top-langs/?username=ardiansyah25&theme=synthwave)](https://github.com/ardiansyah25/github-readme-stats)-->
