@@ -11,9 +11,7 @@
  <a href="https://instagram.com/aardii25" target="blank"><img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&ensp;
 </p>
 <p align="center">
-   <a href="https://github.com/anuraghazra/convoychat">
      <img height=200 align="center" src="https://github-readme-stats-ardiansyah25.vercel.app/api/top-langs?username=ardiansyah25&layout=compact&langs_count=8&card_width=320" />
-   </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
