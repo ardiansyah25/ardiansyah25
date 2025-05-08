@@ -6,7 +6,7 @@
   <img height="350" align="right" width="450" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNqNjB2N3RjcHhlOTQyMHhkajU4amJnZGwzNW8zYzUwdmN3dmNnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif">
 </a>
 
-- 🔭 I'm currently Working As Web Developer at Feen Marine Inc
+- 🔭 I'm Now Working As Web Developer at Feen Marine Inc
 - 🌱 I’m currently learning **Kotlin, Flutter and ASP**
 - 🖥️ proficient in using **PHP**
 - 📫 any freelance work? contact me
