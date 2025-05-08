@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">Ardi</a></h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
+ <a target="_blank" align="center">
+   
+  <img height="350" align="right" width="450" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNibjVvNmtkYnRyYjZjYXlybWI2ZnBua3c1ZTk3eXg3cHBiZWZwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+</a>
+
 - 🔭 I'm currently Working As Web Developer at Feen Marine Inc
 - 🌱 I’m currently learning **Kotlin, Flutter and ASP**
 - 🖥️ proficient in using **PHP**
 - 📫 any freelance work? contact me
+
+
 
 <h3>Software and Tools:</h3>
 <p>  
@@ -26,16 +33,6 @@
 </p>
 
 
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=28490695" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28490695&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @ardiansyah25" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28490695&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
 
