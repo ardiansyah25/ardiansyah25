@@ -1,5 +1,13 @@
-<h3 align="center">Software and Tools:</h3>
-<p align="center">  
+<h1 align="center">Hi 👋, I'm <a href="#" target="blank">Ardi</a></h1>
+<h3 align="center">A passionate Web Developer from Indonesia</h3>
+
+- 🔭 I'm currently Working As Web Developer at Feen Marine Inc
+- 🌱 I’m currently learning **Kotlin, Flutter and ASP**
+- 🖥️ proficient in using **PHP**
+- 📫 any freelance work? contact me
+
+<h3>Software and Tools:</h3>
+<p>  
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -16,32 +24,18 @@
    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </p>
-<!--
- - 🔭 Now I'm Working As Web Developer
-- 🌱 I’m currently learning **Kotlin, Flutter and ASP**
-- 🖥️ proficient in using **PHP**
-- 📫 any freelance work? contact me
-
-<img src="https://komarev.com/ghpvc/?username=ardiansyah25&label=Profile%20views&color=0e75b6&style=flat" alt="ardiansyah25" />
-
-<h2>Connect With me</h2>
-<p>
-</p>
--->
-<!--
-<details>
- <summary> Github Stats</summary>
-   <img src="https:/github-readme-stats-six-mu-12.vercel.app/api?username=ardiansyah25&show_icons=true" />
-</picture>
-
-</details>
-
--->
 
 
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=28490695" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28490695&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @ardiansyah25" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=28490695&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
 
