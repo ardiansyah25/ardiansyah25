@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="#" target="blank">Ardi</a></h1>
-<h3 align="center">A passionate Web Developer from Indonesia</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
  <a target="_blank" align="center">
    
